@@ -36,7 +36,6 @@ L’objectif est de proposer une solution centralisée, modulaire et intuitive p
 ### 🔹 POS — Point de vente
 - Interface de caisse rapide et intuitive.  
 - Paiement multiméthodes (carte, espèces, fidélité).  
-- Suggestions intelligentes (produits complémentaires, offres personnalisées).  
 - Gestion des remises, coupons, fidélité.  
 - Mode hors-ligne avec synchronisation automatique.  
 - Impression et envoi des tickets/factures.
@@ -50,7 +49,6 @@ L’objectif est de proposer une solution centralisée, modulaire et intuitive p
 - API REST structurée  
 - PostgreSQL (types Decimal pour précision financière)  
 - Gestion des rôles, permissions, sécurité, logs  
-- Hébergement prévu sur serveur universitaire ou local
 
 ### 🔸 Frontend
 - **React + Vite**  
@@ -75,7 +73,7 @@ Dans le cadre du projet, l’équipe a réalisé l’ensemble des documents prof
 - **Cahier de recette**  
 - **Cahier de conception**  
 - **Conception détaillée**  
-- **Plan de tests**  
+- **Plan de tests**
 - **Manuel d’installation**  
 - **Manuel d’utilisation**  
 - **Documentation interne du code**  
